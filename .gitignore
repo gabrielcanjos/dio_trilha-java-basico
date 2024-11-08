@@ -1,0 +1,17 @@
+# Ignorar pastas de sistema
+Desktop/
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Videos/
+AppData/
+
+# Ignorar arquivos de sistema do Windows
+*.DAT
+*.LOG
+*.ini
+
+# Ignorar configurações de IDE
+.vscode/
+.redhat/
